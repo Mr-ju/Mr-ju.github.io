@@ -1,7 +1,6 @@
 # 区块链收藏游戏：僵尸之谜
-[![Build Status](https://travis-ci.org/Fankouzu/my-crypto-zombie.svg?branch=master)](https://travis-ci.org/Fankouzu/my-crypto-zombie)
 ## Demo
-https://fankouzu.github.io/my-crypto-zombie/ <br />
+https://mr-ju.github.io/my-crypto-zombie/ <br />
 `需要使用Chrome浏览器和Metamask钱包插件`
 
 
@@ -25,7 +24,7 @@ https://fankouzu.github.io/my-crypto-zombie/ <br />
 
 ```json
 {
-    "3":"0x1a3cA7AbE6370D33986b2D2aC6F1F9A656f87b4D",
+    "3":"0x569CC1242b53478a74a5C19C6008E25e206c3557",
     "4":"0xbca6885699Ee9ae9B2255538B5a3EfB3082bE5ac",
     "5":"0x6817c8475Ad33Aa86422160C3d1C673c453A76dE",
     "42":"0x6817c8475Ad33Aa86422160C3d1C673c453A76dE",
@@ -42,9 +41,3 @@ https://fankouzu.github.io/my-crypto-zombie/ <br />
 '42': Kovan Test Network
 '5777': Ganache localhost:7545
 ```
-## 智能合约
-学习智能合约开发，请看[我的B站视频](https://www.bilibili.com/video/av75230620)<br >
-
-本项目所使用的[智能合约源码在这里](https://github.com/Fankouzu/smart-contract/tree/master/Solidity%20Lesson%2004)<br>
-
-ipfs上也有 ipfs://QmTYNvirSHmoHtjCbH77Zc64xNLFUpMq2JSjUmQeDgLvhY
